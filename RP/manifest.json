@@ -1,0 +1,47 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Crimson Creative",
+			"Wartave",
+			"All rights reserved."
+		]
+	},
+	"header": {
+		"name": "pack.name",
+		"description": "pack.description",
+		"min_engine_version": [
+			1,
+			21,
+			0
+		],
+		"pack_scope": "wold",
+		"uuid": "a2da5508-5b2d-4998-af56-f1146d1fa54a",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "0c18d818-ccaa-4e15-933d-6e0e1e0cbfe1",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "24b0cd7d-55ee-4399-a292-a699d93fba64",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
